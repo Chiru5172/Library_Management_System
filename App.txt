@@ -1,0 +1,9 @@
+This is a simple library management system web application.
+Frontend: ReactJs
+Backend: SpringBoot
+Database: MySQL
+Role Based Authentication.
+This web application functions as three roles with unique dashboards.
+Admin: Able to view and delete registered users.
+Librarian: Able to view available books, add, update and delete books.
+Member: Able to view available books and borrowed books and can able to  borrow and return books.
